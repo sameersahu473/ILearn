@@ -1,5 +1,4 @@
 ## TEAM Pi-thons
-![image](server/Capture.PNG)
 # 🎇ILearn
 - A web app that converts textual content in English to visual content in any local language.
 - User can eithier upload pdf or can give their desired text in the message box.
@@ -11,7 +10,6 @@
 # 🎁Domain of Project 
 - Education
 - Social Good
-
 
 # ⭐Technologies Used
 * Frontend Technolgies Used:
@@ -34,6 +32,10 @@
 - Work on the issue.
 - Create a Pull Request (from your branch to the main repository master branch) which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this issue is all about.
+
+## 🎀What's next for I-Learn
+- Floating a mobile app for it.
+- Made it any language to any language.
 
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
