@@ -37,5 +37,14 @@
 - Floating a mobile app for it.
 - Made it any language to any language.
 
+## 🎞 Demo 
+ The link of the demo can be found [here](https://youtu.be/nrgJUHX-TYs)
+ 
+ ## 🧧Acknowledgments
+
+* [Stack Overflow](https://stackoverflow.com)
+* [Medium Articles](https://medium.com/)
+* [You-Tube](https://youtube.com)
+
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
