@@ -60,7 +60,7 @@
   <tr>
     <td align="center"><a href="https://github.com/sameersahu473"><img src="https://avatars.githubusercontent.com/u/58498397?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Sameer Ranjan Sahu</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/anshusandhi6"><img src="https://avatars.githubusercontent.com/u/59245156?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Anshuman Sandhibigraha</b></sub></a><br />💻</td>
-    <td align="center"><a href="https://github.com/IshaanDesai45"><img src="https://avatars.githubusercontent.com/u/58498397?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Ishaan Desai</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/IshaanDesai45"><img src="https://avatars.githubusercontent.com/u/46575231?v=4" width="100px;" alt=""/><br /><sub><b>Ishaan Desai</b></sub></a><br />💻</td>
     
   </tr>
 </table>
